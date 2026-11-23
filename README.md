@@ -5,11 +5,18 @@ A Windows PowerShell 5.1 toolkit for collecting basic PC hardware and OS invento
 > [!IMPORTANT]
 > **Important: Read the [Safety Precautions, User Responsibilities & Limitation of Liability section](#safety-precautions-user-responsibilities--limitation-of-liability) and the [MIT License](LICENSE) before downloading, configuring, or deploying this toolkit. Always test in a non-production environment first.**
 
+### Download & Getting Started
+
+**New to PowerShell or Group Policy? Start with the Beginner PDF Manual.**
+
+1. [Download Beginner PDF Manual](https://raw.githubusercontent.com/nisarnis-prog/Computer-Inventory-Automation-Toolkit/main/Documentation/Computer-Inventory-Automation-Toolkit-Beginners-Guide-v1.0.0.pdf)
+2. [Download Toolkit ZIP v1.0.0](https://github.com/nisarnis-prog/Computer-Inventory-Automation-Toolkit/releases/download/v1.0.0/Computer-Inventory-Automation-Toolkit-v1.0.0.zip)
+3. [Read the online setup instructions](START-HERE.md)
+
 A client writes one completed, uniquely named record into its own pre-provisioned inbox folder. The server selects one latest valid record per computer and atomically publishes the master outside the inbox. Collection runs again safely. Repeated merges over unchanged inputs produce the same CSV bytes.
 
 Serial numbers and IPv4 addresses are disabled by default. Employee names, account names, MAC addresses, LDAP data and credentials are outside the schema. The built-in identity is a unique Windows computer name within one inventory scope.
 
-- [Download the toolkit v1.0.0 ZIP](https://github.com/nisarnis-prog/Computer-Inventory-Automation-Toolkit/releases/download/v1.0.0/Computer-Inventory-Automation-Toolkit-v1.0.0.zip)
 - [Start here](START-HERE.md)
 - [Installation](INSTALLATION-GUIDE.md) and [configuration](CONFIGURATION-GUIDE.md)
 - [Group Policy deployment](GROUP-POLICY-DEPLOYMENT.md)
