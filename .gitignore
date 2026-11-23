@@ -1,0 +1,10 @@
+_data/
+*.part
+*.lock
+*.log
+MasterInventory.csv
+submission-*.csv
+!Samples/submission-*.csv
+Original_Backup/
+*.zip
+

@@ -1,0 +1,11 @@
+{
+  "InboxRoot": "_data/inbox",
+  "StageRoot": "_data/stage",
+  "LogRoot": "_data/logs",
+  "MasterCsv": "_data/master/MasterInventory.csv",
+  "ComputerIdentity": "NetBIOSName",
+  "IncludeSerialNumber": false,
+  "IncludeIPv4": false,
+  "MaxRecordAgeDays": 0,
+  "MaxFutureMinutes": 10
+}

@@ -1,0 +1,2 @@
+"SchemaVersion","ComputerId","CollectedUtc","Manufacturer","Model","SerialNumber","Processor","RamGiB","FixedVolumeGiB","OsCaption","OsVersion","IPv4"
+"1","PC-001","2026-01-01T12:00:00.0000000+00:00","Contoso","Demo Workstation","","Example CPU","16","512","Windows 11","10.0",""
