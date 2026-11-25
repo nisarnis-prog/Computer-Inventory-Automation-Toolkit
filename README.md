@@ -1,6 +1,6 @@
 <picture>
-  <source media="(max-width: 640px)" srcset="assets/portfolio/hero-mobile.svg" />
-  <img src="assets/portfolio/hero.svg" width="1200" alt="Computer Inventory Automation Toolkit — Nisar Muhammad" />
+  <source media="(max-width: 640px)" srcset="assets/phase2/hero-mobile.svg" />
+  <img src="assets/phase2/hero.svg" width="1200" alt="Computer Inventory Automation Toolkit — Nisar Muhammad" />
 </picture>
 
 # Computer Inventory Automation Toolkit
