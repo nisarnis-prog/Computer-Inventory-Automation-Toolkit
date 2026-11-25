@@ -1,3 +1,8 @@
+<picture>
+  <source media="(max-width: 640px)" srcset="assets/portfolio/hero-mobile.svg" />
+  <img src="assets/portfolio/hero.svg" width="1200" alt="Computer Inventory Automation Toolkit — Nisar Muhammad" />
+</picture>
+
 # Computer Inventory Automation Toolkit
 
 A Windows PowerShell 5.1 toolkit for collecting basic PC hardware and OS inventory through Active Directory Group Policy and merging CSV submissions on a file server.
